@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://olaroacu.github.io/NwO/sitemap_index.txt
+Sitemap: https://olaroacu.github.io/WMm/sitemap_index.txt
+Sitemap: https://olaroacu.github.io/bWP/sitemap_index.txt
+Sitemap: https://olaroacu.github.io/nEM/sitemap_index.txt
